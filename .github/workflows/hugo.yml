@@ -31,7 +31,7 @@ defaults:
 jobs:
   # Build job
   build:
-    runs-on: debian-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Checkout repo codebase
         uses: actions/checkout@v2
