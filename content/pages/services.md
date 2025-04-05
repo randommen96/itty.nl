@@ -1,5 +1,5 @@
 ---
-author: zoxvijawofijasodfij
+author: David der Nederlanden
 date: "2022-02-20T20:13:49+00:00"
 guid: https://itty.nl/?page_id=15
 title: Services
@@ -22,4 +22,4 @@ Per exceptional request I'm available for the following services on a consultanc
 - Opensource DNS solutions (PowerDNS Authoritative Nameserver, dnsdist);
 - Technical incident response.
 
-[![](/wp-content/uploads/2023/11/image.png)](https://internet.nl/site/itty.nl)![IPv6 Certification Badge for randommen](//ipv6.he.net/certification/create_badge.php?pass_name=randommen&badge=1)
+[![](/images/internet100.png)](https://internet.nl/site/itty.nl)![IPv6 Certification Badge for randommen](//ipv6.he.net/certification/create_badge.php?pass_name=randommen&badge=1)

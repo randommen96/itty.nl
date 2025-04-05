@@ -1,10 +1,10 @@
 ---
-author: zoxvijawofijasodfij
+author: David der Nederlanden
 date: "2024-07-01T21:09:56+00:00"
 draft: "true"
 guid: https://itty.nl/?page_id=193
 title: Refund and Returns Policy
-url: /
+url: /refund_returns
 
 ---
 **This is a sample page.**
