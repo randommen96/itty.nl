@@ -3,7 +3,7 @@ author: David der Nederlanden
 date: "2022-02-11T20:44:20+00:00"
 guid: http://itty.nl/?page_id=2
 title: About me
-url: /
+url: /about-me
 
 ---
 > Hi there! I'm David a Hosting professional by day, Homeowner by night, and this is my website. I live in The Netherlands and I like [Motorcycling](https://mt-07.nl).

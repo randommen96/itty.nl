@@ -6,6 +6,9 @@ taxonomies:
   category: category
   tag: tag
 params:
+  homeInfoParams:
+    Title: Hi there wave
+    Content: Can be Info, links, about...
   description: All about IT
   defaultTheme: auto
   disableThemeToggle: true
@@ -15,8 +18,10 @@ params:
   socialIcons:
     - name: "linkedin"
       url: "https://www.linkedin.com/in/daviddernederlanden/"
-    - name: "x"
-      url: "https://x.com"
+    - name: "GitHub"
+      url: "https://github.com/randommen96"
+    - name: "email"
+      url: "mailto:hello@itty.nl"
   showReadingTime: true
   showToc: false
   showBreadCrumbs: true
@@ -46,7 +51,7 @@ outputFormats:
 menu:
   main:
     - name: About me
-      url: /
+      url: /about-me/
       weight: 1
     - name: Blog
       url: /blog/
