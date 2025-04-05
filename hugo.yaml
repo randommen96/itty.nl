@@ -7,8 +7,7 @@ taxonomies:
   tag: tag
 params:
   homeInfoParams:
-    Title: Hi there wave
-    Content: Can be Info, links, about...
+    Title: ITTY a place where the possibilities are endless!
   description: All about IT
   defaultTheme: auto
   disableThemeToggle: true
@@ -50,21 +49,24 @@ outputFormats:
     baseName: feed
 menu:
   main:
+    - name: Home
+      url: /
+      weight: 1
     - name: About me
       url: /about-me/
-      weight: 1
+      weight: 2
     - name: Blog
       url: /blog/
-      weight: 2
+      weight: 3
     - name: Services
       url: /services/
-      weight: 3
+      weight: 4
     - name: Shop
       url: /shop/
-      weight: 4
+      weight: 5
     - name: Privacy Policy
       url: /privacy-policy/
-      weight: 5
+      weight: 6
     - name: "\U0001F50D"
       url: /search/
-      weight: 6
+      weight: 7

@@ -22,4 +22,4 @@ Per exceptional request I'm available for the following services on a consultanc
 - Opensource DNS solutions (PowerDNS Authoritative Nameserver, dnsdist);
 - Technical incident response.
 
-[![](/wp-content/uploads/2023/11/image.png)](https://internet.nl/site/itty.nl)![IPv6 Certification Badge for randommen](//ipv6.he.net/certification/create_badge.php?pass_name=randommen&badge=1)
+[![](/images/internet100.png)](https://internet.nl/site/itty.nl)![IPv6 Certification Badge for randommen](//ipv6.he.net/certification/create_badge.php?pass_name=randommen&badge=1)
