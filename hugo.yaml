@@ -8,9 +8,10 @@ taxonomies:
 params:
   homeInfoParams:
     Title: ITTY a place where the possibilities are endless!
+    Content: You can reach me via one of the options below.
   description: All about IT
   defaultTheme: auto
-  disableThemeToggle: true
+  disableThemeToggle: false
   ShowShareButtons: true
   ShareButtons: ["linkedin", "twitter"]
   showsocialIcons: true
@@ -27,6 +28,7 @@ params:
   showCodeCopyButtons: true
   comments: true
   hideFooter: true
+  logo: /images/logo-no-background.png
   assets:
     favicon: /favicon.ico
     disableHLJS: true
@@ -62,7 +64,7 @@ menu:
       url: /services/
       weight: 4
     - name: Shop
-      url: /shop/
+      url: /products/
       weight: 5
     - name: Privacy Policy
       url: /privacy-policy/
