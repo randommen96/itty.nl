@@ -19,6 +19,13 @@ This year was a busy year with bigger long running projects, which take quite a 
 - Upgraded two PowerDNS nameservers to up-to-date versions;
 - Upgraded multiple Proxmox clusters from 6.x to 8.x;
 - Upgraded multiple Ceph clusters from Nautilus to Reef;
+- Deployed and implemented multiple MariaDB Galera clusters;
+- Migrated servers from one Fortigate VDOM to another with minimal impact;
+- Expanded Ceph clusters and replaced nodes with live workloads;
+- Cleaned up two RIPE ORGS and handled the audit of one;
+- Built a campus network based on Fortiswitches managed by Fortigates.
+- Worked together with Juniper on a Case Study about Juniper Apstra;
+- Handled multiple CentOS 6 to AlmaLinux upgrades;
 - Upgraded Zabbix 6.4 to 7.0 LTS;
 - Gave multiple presentations and trainings about networking and Proxmox;
-- Attended CloudFest and Cephalocon which sparked my interest and got me more involved in opensource communities and trying to bring my relevant input.
+- Attended AlmaLinux Day, CloudFest, Juniper NL Tech club, Dutch Proxmox day, NLNOG Day 2024 and Cephalocon which sparked my interest and got me more involved in opensource communities and trying to bring my relevant input;
