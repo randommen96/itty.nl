@@ -12,7 +12,7 @@ params:
   description: All about IT
   defaultTheme: auto
   disableThemeToggle: false
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShareButtons: ["linkedin", "twitter"]
   showsocialIcons: true
   socialIcons:
