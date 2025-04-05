@@ -9,7 +9,14 @@ params:
   description: All about IT
   defaultTheme: auto
   disableThemeToggle: true
-  showShareButtons: true
+  ShowShareButtons: true
+  ShareButtons: ["linkedin", "twitter"]
+  showsocialIcons: true
+  socialIcons:
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/daviddernederlanden/"
+    - name: "x"
+      url: "https://x.com"
   showReadingTime: true
   showToc: false
   showBreadCrumbs: true

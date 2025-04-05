@@ -1,5 +1,5 @@
 ---
-author: zoxvijawofijasodfij
+author: David der Nederlanden
 date: "2022-02-11T20:44:20+00:00"
 guid: http://itty.nl/?page_id=2
 title: About me
