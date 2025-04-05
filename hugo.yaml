@@ -28,7 +28,6 @@ params:
   showCodeCopyButtons: true
   comments: true
   hideFooter: true
-  logo: /images/logo-no-background.png
   assets:
     favicon: /favicon.ico
     disableHLJS: true
