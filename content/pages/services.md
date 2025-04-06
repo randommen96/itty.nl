@@ -21,5 +21,8 @@ Per exceptional request I'm available for the following services on a consultanc
 - Opensource Hypervisors (Proxmox Virtual Environment (PVE));
 - Opensource DNS solutions (PowerDNS Authoritative Nameserver, dnsdist);
 - Technical incident response.
-
-[![](/images/internet100.png)](https://internet.nl/site/itty.nl)![IPv6 Certification Badge for randommen](//ipv6.he.net/certification/create_badge.php?pass_name=randommen&badge=1)
+{{< gallery class="content-gallery" >}}
+  [![Internet.nl Website badge](/images/embed-badge-websitetest.svg)](https://internet.nl/site/itty.nl)
+  [![Internet.nl Email badge](/images/embed-badge-emailtest.svg)](https://internet.nl/mail/itty.nl)
+{{< /gallery >}}
+[![IPv6 Certification Badge for randommen](/images/he-ipv6-badge.png)](https:////ipv6.he.net/certification/create_badge.php?pass_name=randommen&badge=1)
