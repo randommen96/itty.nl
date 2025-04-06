@@ -1,5 +1,5 @@
 ---
-author: zoxvijawofijasodfij
+author: David der Nederlanden
 date: "2022-02-20T20:13:49+00:00"
 guid: https://itty.nl/?page_id=15
 title: Services
@@ -21,5 +21,8 @@ Per exceptional request I'm available for the following services on a consultanc
 - Opensource Hypervisors (Proxmox Virtual Environment (PVE));
 - Opensource DNS solutions (PowerDNS Authoritative Nameserver, dnsdist);
 - Technical incident response.
-
-[![](/wp-content/uploads/2023/11/image.png)](https://internet.nl/site/itty.nl)![IPv6 Certification Badge for randommen](//ipv6.he.net/certification/create_badge.php?pass_name=randommen&badge=1)
+{{< gallery class="content-gallery" >}}
+  [![Internet.nl Website badge](/images/embed-badge-websitetest.svg)](https://internet.nl/site/itty.nl)
+  [![Internet.nl Email badge](/images/embed-badge-emailtest.svg)](https://internet.nl/mail/itty.nl)
+{{< /gallery >}}
+[![IPv6 Certification Badge for randommen](/images/he-ipv6-badge.png)](https:////ipv6.he.net/certification/create_badge.php?pass_name=randommen&badge=1)

@@ -1,5 +1,5 @@
 ---
-author: zoxvijawofijasodfij
+author: David der Nederlanden
 category:
   - homelab
   - hypervisors
@@ -36,6 +36,6 @@ I monitor my homelab with [Zabbix](https://www.zabbix.com/) and [UptimeRobot](ht
 
 In Zabbix I created a detailed map which draws out critical network connections and displays their status:
 
-![](/wp-content/uploads/2024/06/image-1024x612.png)
+![](/images/homelab.png)
 
 Feel free to reach out to me when you feel the need!

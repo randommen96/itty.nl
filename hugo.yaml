@@ -6,10 +6,22 @@ taxonomies:
   category: category
   tag: tag
 params:
+  homeInfoParams:
+    Title: ITTY a place where the possibilities are endless!
+    Content: You can reach me via one of the options below.
   description: All about IT
   defaultTheme: auto
-  disableThemeToggle: true
-  showShareButtons: true
+  disableThemeToggle: false
+  ShowShareButtons: false
+  ShareButtons: ["linkedin", "twitter"]
+  showsocialIcons: true
+  socialIcons:
+    - name: "linkedin"
+      url: "https://www.linkedin.com/in/daviddernederlanden/"
+    - name: "GitHub"
+      url: "https://github.com/randommen96"
+    - name: "email"
+      url: "mailto:hello@itty.nl"
   showReadingTime: true
   showToc: false
   showBreadCrumbs: true
@@ -38,21 +50,24 @@ outputFormats:
     baseName: feed
 menu:
   main:
-    - name: About me
+    - name: Home
       url: /
       weight: 1
+    - name: About me
+      url: /about-me/
+      weight: 2
     - name: Blog
       url: /blog/
-      weight: 2
+      weight: 3
     - name: Services
       url: /services/
-      weight: 3
-    - name: Shop
-      url: /shop/
       weight: 4
-    - name: Privacy Policy
-      url: /privacy-policy/
+    - name: Shop
+      url: /products/
       weight: 5
+#    - name: Privacy Policy
+#      url: /privacy-policy/
+#      weight: 6
     - name: "\U0001F50D"
       url: /search/
       weight: 6

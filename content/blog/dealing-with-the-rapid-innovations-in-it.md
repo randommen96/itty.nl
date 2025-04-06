@@ -1,5 +1,5 @@
 ---
-author: zoxvijawofijasodfij
+author: David der Nederlanden
 category:
   - philosophy
 date: "2023-09-27T20:34:45+00:00"
