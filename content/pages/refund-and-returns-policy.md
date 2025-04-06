@@ -4,7 +4,7 @@ date: "2024-07-01T21:09:56+00:00"
 draft: "true"
 guid: https://itty.nl/?page_id=193
 title: Refund and Returns Policy
-url: /refund_returns
+url: /refund_returns/
 
 ---
 **This is a sample page.**
@@ -57,12 +57,6 @@ Only regular priced items may be refunded. Sale items cannot be refunded.
 ## Exchanges
 
 We only replace items if they are defective or damaged. If you need to exchange it for the same item, send us an email at {email address} and send your item to: {physical address}.
-
-## Gifts
-
-If the item was marked as a gift when purchased and shipped directly to you, you’ll receive a gift credit for the value of your return. Once the returned item is received, a gift certificate will be mailed to you.
-
-If the item wasn’t marked as a gift when purchased, or the gift giver had the order shipped to themselves to give to you later, we will send a refund to the gift giver and they will find out about your return.
 
 ## Shipping returns
 
