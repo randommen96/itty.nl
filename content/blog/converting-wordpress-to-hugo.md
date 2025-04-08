@@ -2,7 +2,7 @@
 author: David der Nederlanden
 category:
   - webhosting
-date: "2025-04-08T20:00:13+00:00"
+date: "2025-04-08T18:00:13+00:00"
 tag:
   - experience
   - it
@@ -13,7 +13,7 @@ url: /converting-wordpress-to-hugo/
 ---
 I converted this site from Wordpress to Hugo with [wp2hugo](https://github.com/ashishb/wp2hugo) to get me started.
 
-Reason behind this is that I really liked writing the blog in Markdown when I wrote a post for [AlmaLinux](https://almalinux.org/blog/2024-06-05-how-elevate-supports-business-needs/) besides that it also gives a great showcase for your abilities in working with Git and code on its own.
+Reason behind this is that I really liked writing the blog in Markdown when I wrote a post for [AlmaLinux](https://almalinux.org/blog/2024-06-05-how-elevate-supports-business-needs/), besides that it also gives a great showcase for your abilities in working with Git and code on its own.
 
 One of my goals was to maintain my search engine rankings by keeping the old pages at the same location, which it handled nicely.
 
