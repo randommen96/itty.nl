@@ -1,6 +1,6 @@
 # itty.nl website
 
-[![itty.nl](/images/site_screenshot.png)](https://itty.nl)
+[![itty.nl](./site_screenshot.png)](https://itty.nl)
 
 This repository contains website source code for https://itty.nl.
 
