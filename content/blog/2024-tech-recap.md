@@ -15,6 +15,8 @@ url: /2024-tech-recap/
 ---
 This year was a busy year with bigger long running projects, which take quite a toll but are in the end very rewarding. In a small list the following activities are the most notable:
 
+- Migrated a Nagios Core monitored environment to a Zabbix environment, based on the Zabbix agent 2 and Active checks;
+  - Previously we built the Nagios config files with Python from our CMDB, in Zabbix we use Autoregistration rules based on metadata.
 - Consolidated 3 datacenters, consisting of 10 racks into 2 datacenters with 8 racks, doing so decommisioning older servers and rebuilding the entire network infrastructure, transistioning from traditional copper to fully fiber, standardized on Singlemode, fully multihomed, built with Juniper Apstra;
 - Upgraded two PowerDNS nameservers to up-to-date versions;
 - Upgraded multiple Proxmox clusters from 6.x to 8.x;
