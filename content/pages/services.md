@@ -16,10 +16,11 @@ Per exceptional request I'm available for the following services on a consultanc
   - I prefer working with Juniper, Fortinet and pfSense, but am not limited to them.
 - Linux / Unix (Debian, Ubuntu, CentOS, AlmaLinux or anything alike...);
 - Proxy / Caching (HAProxy / Varnish);
-- Opensource backup solutions (Proxmox Backup Server (PBS))
+- Opensource backup solutions (Proxmox Backup Server (PBS);
 - Opensource storage solutions (e.g. CEPH, ZFS);
-- Opensource Hypervisors (Proxmox Virtual Environment (PVE));
+- Opensource Hypervisors (Proxmox Virtual Environment (PVE);
 - Opensource DNS solutions (PowerDNS Authoritative Nameserver, dnsdist);
+- Opensource Monitoring (Zabbix, Nagios Core);
 - Technical incident response.
 {{< gallery class="content-gallery" >}}
   [![Internet.nl Website badge](/images/embed-badge-websitetest.svg)](https://internet.nl/site/itty.nl)
