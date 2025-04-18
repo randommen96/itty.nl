@@ -20,8 +20,8 @@ Something very easily overlooked is what my homelab looks like, as it mostly jus
 It is a well thought out combination of fit for purpose hardware, without becoming "work", so while I do have a preference for specific hardware, I still have the freedom to build it differently than I would do at my day job. It consists of the following parts:
 
 - [Netgate](https://www.netgate.com/) SG-4860-1U as a pfSense firewall and router;
-- Juniper Networks EX2200-C-12P for switching, running as a VC (virtual chassis);
-- Unifi NanoHD as WiFi Accesspoins;
+- 2x Juniper Networks EX2300-C-12P for switching, running as a VC (virtual chassis);
+- 2x Unifi NanoHD as WiFi Accesspoints;
 - A small server running Proxmox, built within a Fractal design node 304 case:
   - Intel i7-8700k cpu;
   - 64GB DDR4 Crucial memory;

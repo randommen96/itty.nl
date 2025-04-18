@@ -19,7 +19,7 @@ One of my goals was to maintain my search engine rankings by keeping the old pag
 
 To deploy the site to my webserver I currently use a simple pipeline on Github Actions which delivers me Artifacts, that I upload manually as of now.
 I don't want to expose my webserver to Github's public runners and also a runner in my own network is something I don't like.
-I'd much rather pull the Artifacts once in a while, something I will write a script for in the future.
+I'd much rather pull the Artifacts once in a while, something I will write a [script](https://github.com/randommen96/hugo-artifact-deploy) for in the future.
 
 The [site source](https://github.com/randommen96/itty.nl) is made opensource and available on Github.
 
