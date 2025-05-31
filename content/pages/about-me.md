@@ -14,4 +14,4 @@ The services I provide are not standard, they are made fit for the purpose and e
 
 I also write some blog posts now and then, be sure to read them :-).
 
-If you have any questions, proposals, or anything else which you think should pass my eye, feel free to contact me by e-mail or Linkedin you can find both at the bottom of every page.
+If you have any questions, proposals, or anything else which you think should pass my eye, feel free to contact me by e-mail or Linkedin.
