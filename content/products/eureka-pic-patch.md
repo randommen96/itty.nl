@@ -1,6 +1,6 @@
 ---
 author: David der Nederlanden
-date: "2026-09-13T12:00:00+00:00"
+date: "2026-09-13T10:00:00+00:00"
 guid: https://itty.nl/products/eureka-mignon-specialita-display-patch/
 title: Eureka Mignon Specialità Display Patch Service
 tag:
